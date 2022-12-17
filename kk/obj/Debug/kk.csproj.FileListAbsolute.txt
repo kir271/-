@@ -1,0 +1,11 @@
+D:\visual lab\kk\kk\bin\Debug\kk.exe.config
+D:\visual lab\kk\kk\bin\Debug\kk.exe
+D:\visual lab\kk\kk\bin\Debug\kk.pdb
+D:\visual lab\kk\kk\obj\Debug\kk.csproj.AssemblyReference.cache
+D:\visual lab\kk\kk\obj\Debug\kk.csproj.SuggestedBindingRedirects.cache
+D:\visual lab\kk\kk\obj\Debug\kk.Form1.resources
+D:\visual lab\kk\kk\obj\Debug\kk.Properties.Resources.resources
+D:\visual lab\kk\kk\obj\Debug\kk.csproj.GenerateResource.cache
+D:\visual lab\kk\kk\obj\Debug\kk.csproj.CoreCompileInputs.cache
+D:\visual lab\kk\kk\obj\Debug\kk.exe
+D:\visual lab\kk\kk\obj\Debug\kk.pdb
